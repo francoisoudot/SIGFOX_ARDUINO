@@ -10,5 +10,8 @@ This code will send an AT command to the EVB to send a message with the value â€
 AT$SF is a generic command and should work for most evaluation board compatible SIGFOX that implemented AT commands.
 The PIN selection is for the Arduino Uno and you will need the Tx PIN to be a DIGITAL PWM PIN.
 
+You can check SIGFOX @ http://sigfox.com/
+
+
 
 
